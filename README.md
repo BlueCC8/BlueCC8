@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Cristian Cernat currently Technical Lead on Full stack apps Angular + .Net + MSSQL + DevOps.
-- 👀 I’m interested in JavaScript, .Net, MSSQL, MySQL, Non-SQL, Networks and Security, DevOps, Docker, Kubernetes, Helm, UI/UX, Azure.
-- 🌱 I’m currently learning Solidity, Business Management, Figma, Azure, DevOps, Security.
+- 👀 Interested in JavaScript, .Net, MSSQL, MySQL, Non-SQL, Networks and Security, DevOps, Docker, Kubernetes, Helm, UI/UX, Azure, AI.
+- 🌱 Currently learning Solidity, Business Management, Figma, Azure, DevOps, Security and LangChain.
 - 📫 How to reach me cristian.cernat97@gmail.com
 
 <h3 align="left">Connect with me:</h3>
